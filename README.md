@@ -5,3 +5,5 @@ Projects currently listed:
 - Obsidian
 
 - KOReader
+
+- Firefox
